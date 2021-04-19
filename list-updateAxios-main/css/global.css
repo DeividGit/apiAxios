@@ -1,0 +1,48 @@
+.container{
+
+}
+.titulo{
+    font-size: 25px;
+    text-align: center;
+    color: #2b21eb;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tituloSub{
+    font-size: 20px;
+    text-align: center;
+    color: #2b21eb;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    display: block;
+    margin: 30px;
+    background-color: #2b21eb;
+    text-decoration: none;
+    color: #fff;
+    border: 0;
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 4px;
+}
+
+.paginate{
+    margin-top: 20px;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    
+    width: 300px;
+}
+
+.paginate div{
+    background-color: rgb(255, 251, 0)147, 175, 175);
+    cursor: pointer;
+    font-size: 18px;
+    width: 50px;
+    height: 40px;
+  
+    
+}
